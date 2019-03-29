@@ -41,7 +41,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
@@ -395,7 +395,7 @@ C ++ | ~
 [mgattozzi/curryrs](https://github.com/mgattozzi/curryrs) | 弥合Haskell和Rust之间的差距
 [mgattozzi/haskellrs](https://github.com/mgattozzi/haskellrs) | 在Haskell FFI示例中生锈
 [mgattozzi/rushs](https://github.com/mgattozzi/rushs) |  Rust FFI示例中的Haskell
-Java的 | ~
+Java | ~
 [bennettanderson/rjni](https://github.com/benanders/rjni) | 使用Rust的Java[<img src="https://api.travis-ci.org/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
 [drrb/java-rust-example](https://github.com/drrb/java-rust-example) | 使用Java中的Rust[<img src="https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master">](https://travis-ci.org/drrb/java-rust-example)
 [kud1ing/rucaja](https://github.com/kud1ing/rucaja) \[[rucaja](https://crates.io/crates/rucaja)]   | 使用Rust的Java[<img src="https://api.travis-ci.org/kud1ing/rucaja.svg?branch=master">](https://travis-ci.org/kud1ing/rucaja)
@@ -436,9 +436,9 @@ Perl的 | ~
 类|细
 ---|---
 [Atom](https://atom.io/) | ～
-[zargony/atom-language-rust](https://github.com/zargony/atom-language-rust)
+[zargony/atom-language-rust](https://github.com/zargony/atom-language-rust) | 
 [Eclipse](https://www.eclipse.org/) | ～
-[RustDT](https://github.com/RustDT/RustDT)-[<img src="https://api.travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
+[RustDT](https://github.com/RustDT/RustDT) | [<img src="https://api.travis-ci.org/RustDT/RustDT.svg?branch=master">](https://travis-ci.org/RustDT/RustDT)
 [Emacs](https://www.gnu.org/software/emacs/) | ～
 [rust-mode](https://github.com/rust-lang/rust-mode) |  Rust Major Mode
 [flycheck-rust](https://github.com/flycheck/flycheck-rust) |  Rust支持[Flycheck](https://github.com/flycheck/flycheck)
@@ -447,11 +447,11 @@ Perl的 | ~
 [gitpod.io](https://gitpod.io) | 基于Rust语言服务器的完整Rust支持的在线IDE | ～
 [gnome-builder](https://wiki.gnome.org/Apps/Builder)自版本3.22.2起,对生锈和货物的原生支持 | ～
 [Kakoune](http://kakoune.org/) | ～
-[ul/kak-lsp](https://github.com/ul/kak-lsp/)-[LSP](https://microsoft.github.io/language-server-protocol/)客户.在Rust中实现并支持rls开箱即用.
+[ul/kak-lsp](https://github.com/ul/kak-lsp/)-[LSP](https://microsoft.github.io/language-server-protocol/)客户 | 在Rust中实现并支持rls开箱即用.
 [NetBeans](https://netbeans.org/) | ～
-[drrb/rust-netbeans](https://github.com/drrb/rust-netbeans)
+[drrb/rust-netbeans](https://github.com/drrb/rust-netbeans)| 
 [IntelliJ](https://www.jetbrains.com/idea/) | ～
-[intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)-[<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
+[intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust)-| [<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
 [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) | 基本的Toml支持
 [Ride](https://github.com/madeso/ride)-[<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride) | ～
 [SolidOak](https://github.com/oakes/SolidOak) | 一个简单的Rust IDE,基于GTK +和[Neovim](https://github.com/neovim/neovim) | ～
@@ -462,27 +462,27 @@ Perl的 | ~
 [rust.vim](https://github.com/rust-lang/rust.vim) | 提供文件检测,语法突出显示,格式化,合成集成等.
 [vim-cargo](https://github.com/timonv/vim-cargo) | 命令绑定从vim快速运行货物.
 [vim-racer](https://github.com/racer-rust/vim-racer) | 允许vim使用[Racer](https://github.com/racer-rust/racer)用于Rust代码完成和导航.
-[autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim)-[LSP](https://microsoft.github.io/language-server-protocol/)客户.在Rust中实现并支持rls开箱即用.
-- 视觉工作室
+[autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) | [LSP](https://microsoft.github.io/language-server-protocol/)客户 ， 在Rust中实现并支持rls开箱即用.
+视觉工作室 | ～
 [PistonDevelopers/VisualRust](https://github.com/PistonDevelopers/VisualRust) |  Rust的Visual Studio扩展[<img src="https://api.travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master">](https://travis-ci.org/PistonDevelopers/VisualRust)
 [Visual Studio Code](https://code.visualstudio.com/) | ～
 [rust-lang-nursery/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) | 对Visual Studio Code的Rust支持
 [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) |  LLDB扩展
 [crates](https://github.com/serayuzgur/crates) |  crates是crates.io依赖项的扩展.[<img src="https://img.shields.io/vscode-marketplace/v/serayuzgur.crates.svg">](https://github.com/serayuzgur/crates) [<img src="https://api.travis-ci.org/serayuzgur/crates.svg?branch=master">](https://travis-ci.org/serayuzgur/crates)
 [KalitaAlexey/vscode-rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) |  RustyCode的一个分支
-[saviorisdead/RustyCode](https://marketplace.visualstudio.com/items?itemName=saviorisdead.RustyCode)(没有维护)
+[saviorisdead/RustyCode](https://marketplace.visualstudio.com/items?itemName=saviorisdead.RustyCode)(没有维护) | 
 
 ### 模式识别
 
-[sfikas/rusteval](https://github.com/sfikas/rusteval) | 用于评估检索算法输出的工具[![Build Status](https://api.travis-ci.org/sfikas/rusteval.svg?branch=master)](https://travis-ci.org/sfikas/rusteval)
+[sfikas/rusteval](https://github.com/sfikas/rusteval) v v于评估检索算法输出的工具[![Build Status](https://api.travis-ci.org/sfikas/rusteval.svg?branch=master)](https://travis-ci.org/sfikas/rusteval)
 
 ### 剖析
 
-- [performancecopilot/hornet](https://github.com/performancecopilot/hornet) |  Performance Co-Pilot内存映射值检测库[![crates.io badge](https://img.shields.io/crates/v/hornet.svg)](https://crates.io/crates/hornet) [<img src="https://api.travis-ci.org/performancecopilot/hornet.svg?branch=master">](https://travis-ci.org/performancecopilot/hornet)
-- [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) | 秒表图书馆[<img src="https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master">](https://travis-ci.org/ellisonch/rust-stopwatch)
+- [performancecopilot/hornet](https://github.com/performancecopilot/hornet) -  Performance Co-Pilot内存映射值检测库[![crates.io badge](https://img.shields.io/crates/v/hornet.svg)](https://crates.io/crates/hornet) [<img src="https://api.travis-ci.org/performancecopilot/hornet.svg?branch=master">](https://travis-ci.org/performancecopilot/hornet)
+- [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) - 秒表图书馆[<img src="https://api.travis-ci.org/ellisonch/rust-stopwatch.svg?branch=master">](https://travis-ci.org/ellisonch/rust-stopwatch)
 - FlameGraphs
-    - [mrhooray/torch](https://github.com/mrhooray/torch) | 基于DWARF调试信息生成FlameGraphs
-    - [TyOverby/flame](https://github.com/TyOverby/flame)-[<img src="https://api.travis-ci.org/TyOverby/flame.svg?branch=master">](https://travis-ci.org/TyOverby/flame)
+    - [mrhooray/torch](https://github.com/mrhooray/torch) - 基于DWARF调试信息生成FlameGraphs
+    - [TyOverby/flame](https://github.com/TyOverby/flame) - [<img src="https://api.travis-ci.org/TyOverby/flame.svg?branch=master">](https://travis-ci.org/TyOverby/flame)
 
 ### 静态分析
 
