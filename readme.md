@@ -1199,7 +1199,7 @@ Rust 代码和资源的精选列表。
   - [candrew/netsim](https://github.com/canndrew/netsim) >>- 用于网络模拟和测试的 Rust 库[<img src="https://api.travis-ci.org/canndrew/netsim.svg?branch=master">](https://travis-ci.org/canndrew/netsim)
 - JSON-RPC
   - [vlopes11/futures-jsonrpc](https://github.com/vlopes11/futures-jsonrpc) \[[futures-jsonrpc](https://crates.io/crates/futures-jsonrpc)] - JSON-RPC 的 Futures 实现[<img src="https://api.travis-ci.org/vlopes11/futures-jsonrpc.svg?branch=master">](https://travis-ci.org/vlopes11/futures-jsonrpc)
-- 低级
+- 底层
   - [Gymmasssorla/sendmmsg](https://github.com/Gymmasssorla/sendmmsg) >>- 用 Rust 编写：在使用一个系统调用时，传输多个消息[<img src="https://api.travis-ci.com/Gymmasssorla/sendmmsg.svg?branch=master">](https://travis-ci.com/Gymmasssorla/sendmmsg)
   - [libpnet/libpnet](https://github.com/libpnet/libpnet) >>- 跨平台，低级别的网络[<img src="https://api.travis-ci.org/libpnet/libpnet.svg?branch=master">](https://travis-ci.org/libpnet/libpnet)
   - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) >>- 用于客户端和服务器的快速开发，和高度可扩展的生产部署的网络应用程序框架。
